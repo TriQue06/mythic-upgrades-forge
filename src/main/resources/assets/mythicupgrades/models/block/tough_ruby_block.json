@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mythicupgrades:block/tough_ruby_block"
+  }
+}

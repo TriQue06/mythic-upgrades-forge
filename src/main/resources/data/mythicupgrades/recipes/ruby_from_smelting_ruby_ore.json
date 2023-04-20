@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 15.0,
+  "group": "ruby",
+  "ingredient": {
+    "item": "mythicupgrades:ruby_ore"
+  },
+  "result": "mythicupgrades:ruby"
+}
